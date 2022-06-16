@@ -1,7 +1,6 @@
 
-import './App.css';
 
-export function App() {
+export default function App() {
   return (
     <nav class="navbar navbar-light bg-light static-top">
     <div class="container ">
@@ -29,5 +28,5 @@ export function App() {
         
     </div>
     </nav>
-  );
+  )
 }
